@@ -9,6 +9,7 @@ Airline companies collect vast amounts of data on their customers, including dem
 
 By leveraging advanced data analytics and machine learning algorithms, the Airline Customer Segmentation Project aims to uncover hidden patterns and segments within the airline customer base. By segmenting customers based on their unique characteristics, preferences, and behaviors, airlines can tailor their marketing efforts, loyalty programs, and service offerings to better meet the needs of each segment.
 
+[Documentation Details](https://github.com/Theofilusarifin/Airline-Customer-Segmentation/blob/main/Documentation.pdf)
 
 ### Objectives
 - Segment airline customers into meaningful groups based on their flight history, spending, and other relevant attributes.
